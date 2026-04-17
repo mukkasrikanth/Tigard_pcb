@@ -1,0 +1,4517 @@
+(export 
+  (version "D")
+  (design
+    (source "Tigard.py")
+    (date "04/17/2026 12:52 PM")
+    (tool "SKiDL (2.2.3)")
+    (sheet
+      (number 1)
+      (name "/")
+      (tstamps "/")
+      (title_block
+        (title)
+        (company)
+        (rev)
+        (date)
+        (source "Tigard.py")
+        (comment
+          (number "1")
+          (value ""))
+        (comment
+          (number "2")
+          (value ""))
+        (comment
+          (number "3")
+          (value ""))
+        (comment
+          (number "4")
+          (value ""))
+        (comment
+          (number "5")
+          (value ""))
+        (comment
+          (number "6")
+          (value ""))
+        (comment
+          (number "7")
+          (value ""))
+        (comment
+          (number "8")
+          (value ""))
+        (comment
+          (number "9")
+          (value "")))))
+  (components
+    (comp
+      (ref "C1")
+      (value "2u2")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "zF8wH1htE7")
+        (field
+          (name "SKiDL Line") "Tigard.py:578"))
+      (libsource
+        (lib "NO_LIB")
+        (part "C_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "8ee8acaa-40de-5b06-b066-6a138032c0a0"))
+    (comp
+      (ref "C10")
+      (value "2u2")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "LM9rZxazRx")
+        (field
+          (name "SKiDL Line") "Tigard.py:584"))
+      (libsource
+        (lib "NO_LIB")
+        (part "C_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "02f6a02a-2666-5c18-8594-9af5c311a777"))
+    (comp
+      (ref "C11")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "CjxdxhfHwn")
+        (field
+          (name "SKiDL Line") "Tigard.py:590"))
+      (libsource
+        (lib "NO_LIB")
+        (part "C_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "e4cae104-1377-56bb-aab0-e76c0b1d3f17"))
+    (comp
+      (ref "C12")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "JKrKM4jIiX")
+        (field
+          (name "SKiDL Line") "Tigard.py:596"))
+      (libsource
+        (lib "NO_LIB")
+        (part "C_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "0abf3c4a-c30e-50a6-b6f7-1cc55704b941"))
+    (comp
+      (ref "C13")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "mWY_4eeRdE")
+        (field
+          (name "SKiDL Line") "Tigard.py:602"))
+      (libsource
+        (lib "NO_LIB")
+        (part "C_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "e08cab3c-6062-50c0-b46d-d472eb52ffa0"))
+    (comp
+      (ref "C14")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "AtGXxjCFdr")
+        (field
+          (name "SKiDL Line") "Tigard.py:608"))
+      (libsource
+        (lib "NO_LIB")
+        (part "C_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "4cfa4514-a128-50c6-b075-5806255529fb"))
+    (comp
+      (ref "C15")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "OHzz2VF6jJ")
+        (field
+          (name "SKiDL Line") "Tigard.py:614"))
+      (libsource
+        (lib "NO_LIB")
+        (part "C_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "bc1a614d-2796-5073-9f4f-4fe1c9d153fa"))
+    (comp
+      (ref "C16")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "UOjWBJy3B8")
+        (field
+          (name "SKiDL Line") "Tigard.py:620"))
+      (libsource
+        (lib "NO_LIB")
+        (part "C_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "7c60a86a-1388-5a48-8162-9c12827f4314"))
+    (comp
+      (ref "C17")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "eqktVKOc3P")
+        (field
+          (name "SKiDL Line") "Tigard.py:626"))
+      (libsource
+        (lib "NO_LIB")
+        (part "C_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "a7363452-6ced-563d-bf35-6198dad2aa25"))
+    (comp
+      (ref "C18")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "71QaqoS1Vu")
+        (field
+          (name "SKiDL Line") "Tigard.py:632"))
+      (libsource
+        (lib "NO_LIB")
+        (part "C_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "bfec2c65-1015-51c1-a3cf-393fc09392c7"))
+    (comp
+      (ref "C19")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "DZyCRcfpde")
+        (field
+          (name "SKiDL Line") "Tigard.py:638"))
+      (libsource
+        (lib "NO_LIB")
+        (part "C_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "13b3ef38-689c-5a80-a2c9-8597fac5f208"))
+    (comp
+      (ref "C2")
+      (value "2u2")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "9UKrxIUjHo")
+        (field
+          (name "SKiDL Line") "Tigard.py:644"))
+      (libsource
+        (lib "NO_LIB")
+        (part "C_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "a514052a-61cc-5047-8972-902752bb2579"))
+    (comp
+      (ref "C20")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "gIYicAjFEY")
+        (field
+          (name "SKiDL Line") "Tigard.py:650"))
+      (libsource
+        (lib "NO_LIB")
+        (part "C_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "708889b4-e6dc-55eb-84de-dd44a0d6db89"))
+    (comp
+      (ref "C21")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "0PYZWmMSmK")
+        (field
+          (name "SKiDL Line") "Tigard.py:656"))
+      (libsource
+        (lib "NO_LIB")
+        (part "C_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "382a5d2a-0102-522d-b9ed-ab9495db4e9f"))
+    (comp
+      (ref "C22")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "ayyIvYOEkc")
+        (field
+          (name "SKiDL Line") "Tigard.py:662"))
+      (libsource
+        (lib "NO_LIB")
+        (part "C_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "3af321fa-60ed-5c32-b09d-a60528f31778"))
+    (comp
+      (ref "C23")
+      (value "30pF")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "vQSe0A8fvq")
+        (field
+          (name "SKiDL Line") "Tigard.py:668"))
+      (libsource
+        (lib "NO_LIB")
+        (part "C_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "4bc3524c-c2b0-5288-b7d0-f08017420605"))
+    (comp
+      (ref "C24")
+      (value "30pF")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "X7v4gf0VSp")
+        (field
+          (name "SKiDL Line") "Tigard.py:674"))
+      (libsource
+        (lib "NO_LIB")
+        (part "C_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "3d572e1d-5fc8-5809-9ae4-da607c99fb98"))
+    (comp
+      (ref "C25")
+      (value "NF")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "OgePoOM5Ut")
+        (field
+          (name "SKiDL Line") "Tigard.py:680"))
+      (libsource
+        (lib "NO_LIB")
+        (part "C_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "477e9921-bd23-5ddc-abe1-521aa913cfed"))
+    (comp
+      (ref "C26")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "jJSb5ITASW")
+        (field
+          (name "SKiDL Line") "Tigard.py:686"))
+      (libsource
+        (lib "NO_LIB")
+        (part "C_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "7e6ea1f3-2f91-59af-8919-c27531d6c867"))
+    (comp
+      (ref "C3")
+      (value "2u2")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "7850O7ZgBc")
+        (field
+          (name "SKiDL Line") "Tigard.py:692"))
+      (libsource
+        (lib "NO_LIB")
+        (part "C_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "9d79447b-9616-59bc-a3dd-929b1e1f865a"))
+    (comp
+      (ref "C4")
+      (value "2u2")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "8MmYFwJpeL")
+        (field
+          (name "SKiDL Line") "Tigard.py:698"))
+      (libsource
+        (lib "NO_LIB")
+        (part "C_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "cdb4fd50-4c66-5c8f-96e4-34a52c8a2569"))
+    (comp
+      (ref "C5")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "GvNdrV71Bd")
+        (field
+          (name "SKiDL Line") "Tigard.py:704"))
+      (libsource
+        (lib "NO_LIB")
+        (part "C_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "0a53b52f-b58a-5f69-968e-a151bb8b5749"))
+    (comp
+      (ref "C6")
+      (value "2u2")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "GEH2165D_z")
+        (field
+          (name "SKiDL Line") "Tigard.py:710"))
+      (libsource
+        (lib "NO_LIB")
+        (part "C_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "7fd53d26-9f99-598e-b380-3fd02d29b5ef"))
+    (comp
+      (ref "C7")
+      (value "2u2")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "iMDVqmQaW3")
+        (field
+          (name "SKiDL Line") "Tigard.py:716"))
+      (libsource
+        (lib "NO_LIB")
+        (part "C_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "58789022-3f75-5273-9764-64beec70ad3a"))
+    (comp
+      (ref "C8")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "4TMIikEYl5")
+        (field
+          (name "SKiDL Line") "Tigard.py:722"))
+      (libsource
+        (lib "NO_LIB")
+        (part "C_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "451dd7f4-046d-5eb7-840f-0e912ce0a049"))
+    (comp
+      (ref "C9")
+      (value "2u2")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "j5yXmJTFrg")
+        (field
+          (name "SKiDL Line") "Tigard.py:728"))
+      (libsource
+        (lib "NO_LIB")
+        (part "C_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "13a9350f-aa51-5bba-8ad5-306c7a784125"))
+    (comp
+      (ref "D1")
+      (value "YELLOW")
+      (description "")
+      (footprint "LED_SMD:LED_0603_1608Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "LED_SMD:LED_0603_1608Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "Q_Ksq_ecR1")
+        (field
+          (name "SKiDL Line") "Tigard.py:734"))
+      (libsource
+        (lib "NO_LIB")
+        (part "LED"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "bfb8d231-a62a-546c-936f-7b0c372cf71a"))
+    (comp
+      (ref "D2")
+      (value "BLUE")
+      (description "")
+      (footprint "LED_SMD:LED_0603_1608Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "LED_SMD:LED_0603_1608Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "oO_Ri3vkAC")
+        (field
+          (name "SKiDL Line") "Tigard.py:740"))
+      (libsource
+        (lib "NO_LIB")
+        (part "LED"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "84ae6a23-9864-5ceb-9b98-4f9272cc0c1b"))
+    (comp
+      (ref "D3")
+      (value "GREEN")
+      (description "")
+      (footprint "LED_SMD:LED_0603_1608Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "LED_SMD:LED_0603_1608Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "6rZFmwmlL0")
+        (field
+          (name "SKiDL Line") "Tigard.py:746"))
+      (libsource
+        (lib "NO_LIB")
+        (part "LED_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "3d387d13-a81c-5c33-b6bc-c4abbed7c1f2"))
+    (comp
+      (ref "D4")
+      (value "YELLOW")
+      (description "")
+      (footprint "LED_SMD:LED_0603_1608Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "LED_SMD:LED_0603_1608Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "WQu9cF901G")
+        (field
+          (name "SKiDL Line") "Tigard.py:752"))
+      (libsource
+        (lib "NO_LIB")
+        (part "LED_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "4808e5e5-9dbd-50bb-a094-58dd27007a68"))
+    (comp
+      (ref "D5")
+      (value "GREEN")
+      (description "")
+      (footprint "LED_SMD:LED_0603_1608Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "LED_SMD:LED_0603_1608Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "rfBiDeTgtF")
+        (field
+          (name "SKiDL Line") "Tigard.py:758"))
+      (libsource
+        (lib "NO_LIB")
+        (part "LED_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "7409e72c-71f3-5164-9f87-067c6ae7e8ae"))
+    (comp
+      (ref "FB1")
+      (value "600R, 0.5A")
+      (description "")
+      (footprint "Inductor_SMD:L_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Inductor_SMD:L_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "M5pQl5siWr")
+        (field
+          (name "SKiDL Line") "Tigard.py:764"))
+      (libsource
+        (lib "NO_LIB")
+        (part "Ferrite_Bead_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "9bd97ad0-b0ab-5e34-870e-4f84a89595d2"))
+    (comp
+      (ref "FB2")
+      (value "600R, 0.5A")
+      (description "")
+      (footprint "Inductor_SMD:L_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Inductor_SMD:L_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "P7FZPq431C")
+        (field
+          (name "SKiDL Line") "Tigard.py:770"))
+      (libsource
+        (lib "NO_LIB")
+        (part "Ferrite_Bead_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "e0d719bd-64a1-560e-ac07-3347855b92e4"))
+    (comp
+      (ref "FB3")
+      (value "600R, 0.5A")
+      (description "")
+      (footprint "Inductor_SMD:L_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Inductor_SMD:L_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "oweyRAaC2o")
+        (field
+          (name "SKiDL Line") "Tigard.py:776"))
+      (libsource
+        (lib "NO_LIB")
+        (part "Ferrite_Bead_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "35fc6588-c09e-5082-aa72-d5c5b99d733f"))
+    (comp
+      (ref "H1")
+      (value "MountingHole")
+      (description "")
+      (footprint "MountingHole:MountingHole_3.2mm_M3_ISO7380")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "MountingHole:MountingHole_3.2mm_M3_ISO7380")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "AUlYJKJ959")
+        (field
+          (name "SKiDL Line") "Tigard.py:782"))
+      (libsource
+        (lib "NO_LIB")
+        (part "MountingHole"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "b76bd8c6-dbc4-59dd-8701-9434f66a21e2"))
+    (comp
+      (ref "H2")
+      (value "MountingHole")
+      (description "")
+      (footprint "MountingHole:MountingHole_3.2mm_M3_ISO7380")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "MountingHole:MountingHole_3.2mm_M3_ISO7380")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "tn2mswVMDz")
+        (field
+          (name "SKiDL Line") "Tigard.py:786"))
+      (libsource
+        (lib "NO_LIB")
+        (part "MountingHole"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "be553ea1-8c3f-520c-b4e6-3927fb2af729"))
+    (comp
+      (ref "H3")
+      (value "MountingHole")
+      (description "")
+      (footprint "MountingHole:MountingHole_3.2mm_M3_ISO7380")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "MountingHole:MountingHole_3.2mm_M3_ISO7380")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "XeljBZPwJM")
+        (field
+          (name "SKiDL Line") "Tigard.py:790"))
+      (libsource
+        (lib "NO_LIB")
+        (part "MountingHole"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "920560ac-6e75-599d-ba0d-5ae2ce453362"))
+    (comp
+      (ref "H4")
+      (value "MountingHole")
+      (description "")
+      (footprint "MountingHole:MountingHole_3.2mm_M3_ISO7380")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "MountingHole:MountingHole_3.2mm_M3_ISO7380")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "QeZ3EHkCdH")
+        (field
+          (name "SKiDL Line") "Tigard.py:794"))
+      (libsource
+        (lib "NO_LIB")
+        (part "MountingHole"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "7c5960f2-0887-5059-918a-6ca3a30b55a6"))
+    (comp
+      (ref "J1")
+      (value "USB_C_Receptacle_USB2.0")
+      (description "")
+      (footprint "tigard:USB_C_Receptacle_HRO_TYPE-C-31-M-12")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "tigard:USB_C_Receptacle_HRO_TYPE-C-31-M-12")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "pI1WOipjyV")
+        (field
+          (name "SKiDL Line") "Tigard.py:798"))
+      (libsource
+        (lib "NO_LIB")
+        (part "USB_C_Receptacle_USB2.0"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "1e01ddcd-df23-5fd9-a8e5-f3c09b2c09a4"))
+    (comp
+      (ref "J2")
+      (value "JTAG")
+      (description "")
+      (footprint "tigard:PinHeader_1x09_P2.54mm_Vertical")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "tigard:PinHeader_1x09_P2.54mm_Vertical")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "8UFMu8m1jG")
+        (field
+          (name "SKiDL Line") "Tigard.py:819"))
+      (libsource
+        (lib "NO_LIB")
+        (part "Conn_01x09"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "2a92b35e-002a-5e21-b725-440294968a89"))
+    (comp
+      (ref "J3")
+      (value "UART")
+      (description "")
+      (footprint "tigard:PinHeader_1x09_P2.54mm_Vertical")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "tigard:PinHeader_1x09_P2.54mm_Vertical")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "8xqTjwhWi5")
+        (field
+          (name "SKiDL Line") "Tigard.py:832"))
+      (libsource
+        (lib "NO_LIB")
+        (part "Conn_01x09"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "0f7a3f35-117b-5f79-a84f-70d424dc58e0"))
+    (comp
+      (ref "J4")
+      (value "SPI")
+      (description "")
+      (footprint "tigard:PinHeader_2x04_P2.54mm_Vertical")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "tigard:PinHeader_2x04_P2.54mm_Vertical")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "JcDtteZ9RH")
+        (field
+          (name "SKiDL Line") "Tigard.py:845"))
+      (libsource
+        (lib "NO_LIB")
+        (part "Conn_02x04_Odd_Even"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "fc3b4117-b623-5b58-b7a7-6f52ef993724"))
+    (comp
+      (ref "J5")
+      (value "CORTEX")
+      (description "")
+      (footprint "tigard:PinHeader_2x05_P1.27mm_Vertical_SMD")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "tigard:PinHeader_2x05_P1.27mm_Vertical_SMD")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "mi_8p3INTt")
+        (field
+          (name "SKiDL Line") "Tigard.py:857"))
+      (libsource
+        (lib "NO_LIB")
+        (part "Conn_02x05_Odd_Even"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "01673606-357e-5a24-a9f8-4478fe91df1c"))
+    (comp
+      (ref "J6")
+      (value "LA")
+      (description "")
+      (footprint "tigard:PinHeader_2x07_P1.27mm_Vertical_SMD")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "tigard:PinHeader_2x07_P1.27mm_Vertical_SMD")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "Kn8A95VgI7")
+        (field
+          (name "SKiDL Line") "Tigard.py:871"))
+      (libsource
+        (lib "NO_LIB")
+        (part "Conn_02x07_Odd_Even"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "5f88fa22-b798-511d-a13b-474d5d79b5be"))
+    (comp
+      (ref "J7")
+      (value "I2C")
+      (description "")
+      (footprint "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "yHx3Hn3ITC")
+        (field
+          (name "SKiDL Line") "Tigard.py:889"))
+      (libsource
+        (lib "NO_LIB")
+        (part "Conn_01x04_MountingPin"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "87e6f9cb-8ca9-5c24-b630-bcff1bb4ec41"))
+    (comp
+      (ref "JP1")
+      (value "ISO")
+      (description "")
+      (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "iHSgvFUdIQ")
+        (field
+          (name "SKiDL Line") "Tigard.py:898"))
+      (libsource
+        (lib "NO_LIB")
+        (part "Jumper_NC_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "e903ca61-8de4-51e2-a615-673f58630737"))
+    (comp
+      (ref "JP2")
+      (value "HACK")
+      (description "")
+      (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "psFZiprGbQ")
+        (field
+          (name "SKiDL Line") "Tigard.py:904"))
+      (libsource
+        (lib "NO_LIB")
+        (part "Jumper_NO_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "16f962f7-ec00-50e9-b735-142cb8e970be"))
+    (comp
+      (ref "Q1")
+      (value "BSH103")
+      (description "")
+      (footprint "tigard:SOT-23_RoundRect")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "tigard:SOT-23_RoundRect")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "JYjBLvyzFu")
+        (field
+          (name "SKiDL Line") "Tigard.py:910"))
+      (libsource
+        (lib "NO_LIB")
+        (part "Q_NMOS_GSD"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "1da0558e-850a-5fdf-9839-c75fa0f0b419"))
+    (comp
+      (ref "R1")
+      (value "5k1")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "MmjcOIk3Ci")
+        (field
+          (name "SKiDL Line") "Tigard.py:917"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "839fc41a-0b88-54f7-9ad2-d3fa1bd255e2"))
+    (comp
+      (ref "R10")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "bXw0KmpVvi")
+        (field
+          (name "SKiDL Line") "Tigard.py:923"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "0da03642-545a-55d6-b403-3d54bc33ceb9"))
+    (comp
+      (ref "R11")
+      (value "330")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "bKeIqKjR5n")
+        (field
+          (name "SKiDL Line") "Tigard.py:929"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "0dacbb5d-c05a-5c3d-a4d2-2071927b2d95"))
+    (comp
+      (ref "R12")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "R9erzHHAQ3")
+        (field
+          (name "SKiDL Line") "Tigard.py:935"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "4fa50de0-39e4-5918-95f4-69ccfc53b8cb"))
+    (comp
+      (ref "R13")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "natE3l3yyg")
+        (field
+          (name "SKiDL Line") "Tigard.py:941"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "dd982a0f-4e19-5e48-be5c-5c87ba0948f6"))
+    (comp
+      (ref "R14")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "DX_HvPP4aa")
+        (field
+          (name "SKiDL Line") "Tigard.py:947"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "4c07d8a7-4032-531d-86b0-33363829906e"))
+    (comp
+      (ref "R15")
+      (value "2.2k")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "mS7ssGDqQ_")
+        (field
+          (name "SKiDL Line") "Tigard.py:953"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "3636634b-ee45-5037-b663-44553868af3a"))
+    (comp
+      (ref "R16")
+      (value "330")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "WM_feyM8lF")
+        (field
+          (name "SKiDL Line") "Tigard.py:959"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "e342a5d3-3ee8-5652-b7ee-87fbb7dd62ae"))
+    (comp
+      (ref "R17")
+      (value "1M")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "XELbhIW9PS")
+        (field
+          (name "SKiDL Line") "Tigard.py:965"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "1ae19823-960c-5370-b191-b1e5b61825e8"))
+    (comp
+      (ref "R18")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "t2zFuNF8sb")
+        (field
+          (name "SKiDL Line") "Tigard.py:971"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "edc3f328-975c-5c68-aa3a-4d56407425af"))
+    (comp
+      (ref "R19")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "ZvI3AB7Si0")
+        (field
+          (name "SKiDL Line") "Tigard.py:977"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "0773b841-d279-5f07-89cf-71b38b5cf331"))
+    (comp
+      (ref "R2")
+      (value "5k1")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "8juUpCIQXa")
+        (field
+          (name "SKiDL Line") "Tigard.py:983"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "30c09b9d-2614-58b3-ab3d-c727a550d670"))
+    (comp
+      (ref "R20")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "59X2iBDZKA")
+        (field
+          (name "SKiDL Line") "Tigard.py:989"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "662e2eda-70e3-5055-bbd9-02cf0bfae643"))
+    (comp
+      (ref "R21")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "E5IIjxbVzJ")
+        (field
+          (name "SKiDL Line") "Tigard.py:995"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "fc8e94c9-a80a-596c-90ae-6fb2500dda55"))
+    (comp
+      (ref "R22")
+      (value "2k2")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "ESYssjPigv")
+        (field
+          (name "SKiDL Line") "Tigard.py:1001"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "105b3eac-34f1-595a-a19f-25578b1e0b86"))
+    (comp
+      (ref "R24")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "sNqI9zTEs8")
+        (field
+          (name "SKiDL Line") "Tigard.py:1007"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "b0a58ac3-81ce-5e81-872b-dbc2f0db91ed"))
+    (comp
+      (ref "R3")
+      (value "1M")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "6nWJqU2MfK")
+        (field
+          (name "SKiDL Line") "Tigard.py:1013"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "90c35def-3257-5435-9b46-1f8e13f0354d"))
+    (comp
+      (ref "R4")
+      (value "330")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "Y_zIakI008")
+        (field
+          (name "SKiDL Line") "Tigard.py:1019"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "950ec8f5-6565-5419-a92f-08a40c194437"))
+    (comp
+      (ref "R5")
+      (value "330")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "fq9GFE9217")
+        (field
+          (name "SKiDL Line") "Tigard.py:1025"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "0a012cdb-62e4-5d3d-a716-aab85e8f945b"))
+    (comp
+      (ref "R6")
+      (value "12k, 1%")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "w3f7ayeElX")
+        (field
+          (name "SKiDL Line") "Tigard.py:1031"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "2e6bbc9c-8942-5a8d-84a3-ba2253cf47d5"))
+    (comp
+      (ref "R7")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "7Ge7dwfKcW")
+        (field
+          (name "SKiDL Line") "Tigard.py:1037"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "e203a032-04cf-51ed-8c23-3983854241ba"))
+    (comp
+      (ref "R8")
+      (value "330")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "QcySBcHXYf")
+        (field
+          (name "SKiDL Line") "Tigard.py:1043"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "84a0583a-4515-5327-90d4-7b2786db35e1"))
+    (comp
+      (ref "R9")
+      (value "330")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "6Mtyq8grm8")
+        (field
+          (name "SKiDL Line") "Tigard.py:1049"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "13356291-5e1a-5256-b4e6-a1ca5342a4be"))
+    (comp
+      (ref "RN1")
+      (value "100k")
+      (description "")
+      (footprint "tigard:R_Array_Convex_4x0402_RoundRect")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "tigard:R_Array_Convex_4x0402_RoundRect")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "gBqMDkGXal")
+        (field
+          (name "SKiDL Line") "Tigard.py:1055"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R_Pack04"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "a7695bd3-97c0-56ef-88bc-aeb97292f943"))
+    (comp
+      (ref "RN2")
+      (value "100k")
+      (description "")
+      (footprint "tigard:R_Array_Convex_4x0402_RoundRect")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "tigard:R_Array_Convex_4x0402_RoundRect")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "M0kWGaJq91")
+        (field
+          (name "SKiDL Line") "Tigard.py:1067"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R_Pack04"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "64b382b8-63a6-513c-9156-47dd8c1d211c"))
+    (comp
+      (ref "RN3")
+      (value "100")
+      (description "")
+      (footprint "tigard:R_Array_Convex_4x0402_RoundRect")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "tigard:R_Array_Convex_4x0402_RoundRect")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "n_cvJGybnC")
+        (field
+          (name "SKiDL Line") "Tigard.py:1079"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R_Pack04"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "7667f172-95ab-5a25-9f26-0fd41d8a0548"))
+    (comp
+      (ref "RN4")
+      (value "100")
+      (description "")
+      (footprint "tigard:R_Array_Convex_4x0402_RoundRect")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "tigard:R_Array_Convex_4x0402_RoundRect")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "P7T3RdJ8xY")
+        (field
+          (name "SKiDL Line") "Tigard.py:1091"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R_Pack04"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "4deba5ce-48bd-5448-93bd-a2dfaa3027a7"))
+    (comp
+      (ref "RN5")
+      (value "100")
+      (description "")
+      (footprint "tigard:R_Array_Convex_4x0402_RoundRect")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "tigard:R_Array_Convex_4x0402_RoundRect")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "qR7fJk2iHp")
+        (field
+          (name "SKiDL Line") "Tigard.py:1103"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R_Pack04"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "78d12337-7293-5ac9-93c0-00df438a711d"))
+    (comp
+      (ref "RN6")
+      (value "100")
+      (description "")
+      (footprint "tigard:R_Array_Convex_4x0402_RoundRect")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "tigard:R_Array_Convex_4x0402_RoundRect")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "GBUHyBbgdK")
+        (field
+          (name "SKiDL Line") "Tigard.py:1115"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R_Pack04"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "c97a87dd-3266-54c2-9e6d-c9142062a1a1"))
+    (comp
+      (ref "RN7")
+      (value "100k")
+      (description "")
+      (footprint "tigard:R_Array_Convex_4x0402_RoundRect")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "tigard:R_Array_Convex_4x0402_RoundRect")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "LHI2DIgXkr")
+        (field
+          (name "SKiDL Line") "Tigard.py:1127"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R_Pack04"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "56001f0e-d857-5cbf-bff8-affb6a667443"))
+    (comp
+      (ref "RN8")
+      (value "100k")
+      (description "")
+      (footprint "tigard:R_Array_Convex_4x0402_RoundRect")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "tigard:R_Array_Convex_4x0402_RoundRect")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "dhuZKScVEN")
+        (field
+          (name "SKiDL Line") "Tigard.py:1139"))
+      (libsource
+        (lib "NO_LIB")
+        (part "R_Pack04"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "96ac09db-3dc5-59e8-a84f-24c375562f2f"))
+    (comp
+      (ref "SW1")
+      (value "TARGET")
+      (description "")
+      (footprint "tigard:SW_ALPS_SSSS224100_DP4T")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "tigard:SW_ALPS_SSSS224100_DP4T")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "Kwk3Zkyudu")
+        (field
+          (name "SKiDL Line") "Tigard.py:1151"))
+      (libsource
+        (lib "NO_LIB")
+        (part "SW_DP4T"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "33105b37-b1e8-5930-8825-11dfb451fd83"))
+    (comp
+      (ref "SW2")
+      (value "MODE")
+      (description "")
+      (footprint "tigard:SW_CuK_JS202011CQN_DPDT_Straight")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "tigard:SW_CuK_JS202011CQN_DPDT_Straight")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "IxhND4iNwo")
+        (field
+          (name "SKiDL Line") "Tigard.py:1165"))
+      (libsource
+        (lib "NO_LIB")
+        (part "SW_DPDT"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "653e3025-fcee-5842-91e4-d6ae0f663440"))
+    (comp
+      (ref "TP1")
+      (value "GND")
+      (description "")
+      (footprint "TestPoint:TestPoint_Keystone_5000-5004_Miniature")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "TestPoint:TestPoint_Keystone_5000-5004_Miniature")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "xIbzdT17gH")
+        (field
+          (name "SKiDL Line") "Tigard.py:1175"))
+      (libsource
+        (lib "NO_LIB")
+        (part "TestPoint"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "661bb35f-2e16-568b-9b8e-14cb0dd02186"))
+    (comp
+      (ref "U1")
+      (value "AP7365-18")
+      (description "")
+      (footprint "tigard:SOT-23-5_RoundRect")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "tigard:SOT-23-5_RoundRect")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "x3i3ep7i7w")
+        (field
+          (name "SKiDL Line") "Tigard.py:1180"))
+      (libsource
+        (lib "NO_LIB")
+        (part "AP7365-18"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "836ae42f-0b8c-5fdd-9a75-5db0c1fb7dbe"))
+    (comp
+      (ref "U2")
+      (value "AP7365-33")
+      (description "")
+      (footprint "tigard:SOT-23-5_RoundRect")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "tigard:SOT-23-5_RoundRect")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "qp5CrpJLQ1")
+        (field
+          (name "SKiDL Line") "Tigard.py:1189"))
+      (libsource
+        (lib "NO_LIB")
+        (part "AP7365-33"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "c8758858-cc7a-55f1-ac43-cc33474bd98b"))
+    (comp
+      (ref "U3")
+      (value "FT2232HQ")
+      (description "")
+      (footprint "Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP4.35x4.35mm_ThermalVias")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Package_DFN_QFN:QFN-64-1EP_9x9mm_P0.5mm_EP4.35x4.35mm_ThermalVias")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "jIo6ELk1st")
+        (field
+          (name "SKiDL Line") "Tigard.py:1198"))
+      (libsource
+        (lib "NO_LIB")
+        (part "FT2232HQ"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "92eb271b-d6ce-5162-89ce-d124676ffe87"))
+    (comp
+      (ref "U4")
+      (value "93LC46BT-I/OT")
+      (description "")
+      (footprint "tigard:SOT-23-6_RoundRect")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "tigard:SOT-23-6_RoundRect")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "W4SLLoLNjA")
+        (field
+          (name "SKiDL Line") "Tigard.py:1267"))
+      (libsource
+        (lib "NO_LIB")
+        (part "93LCxxBxxOT"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "edf3bc03-094a-543b-9f49-58869fec211a"))
+    (comp
+      (ref "U5")
+      (value "SN74LVC8T245")
+      (description "")
+      (footprint "Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "8XYrUTCuV7")
+        (field
+          (name "SKiDL Line") "Tigard.py:1277"))
+      (libsource
+        (lib "NO_LIB")
+        (part "SN74LVC8T245"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "c0d6634c-a163-5ad8-b3cf-0858c3c7ed99"))
+    (comp
+      (ref "U6")
+      (value "SN74LVC8T245")
+      (description "")
+      (footprint "Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "Bx_F2gXIxL")
+        (field
+          (name "SKiDL Line") "Tigard.py:1305"))
+      (libsource
+        (lib "NO_LIB")
+        (part "SN74LVC8T245"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "480f53c9-9e5a-50dd-bc2b-11a12dfc957f"))
+    (comp
+      (ref "Y1")
+      (value "12MHz")
+      (description "")
+      (footprint "tigard:Crystal_SMD_3225-4Pin_3.2x2.5mm_RoundRect")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "tigard:Crystal_SMD_3225-4Pin_3.2x2.5mm_RoundRect")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "pfX2FHywvn")
+        (field
+          (name "SKiDL Line") "Tigard.py:1333"))
+      (libsource
+        (lib "NO_LIB")
+        (part "Crystal_GND24"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "51ecd143-c519-5b56-ac95-597d3df22416")))
+  (nets
+    (net
+      (code 1)
+      (name "+1V8")
+      (class "Default")
+      (node
+        (ref "C2")
+        (pin "1")
+        (pintype "PASSIVE")))
+    (net
+      (code 2)
+      (name "+3V3")
+      (class "Default")
+      (node
+        (ref "C14")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C15")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C16")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C17")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C18")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C19")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C20")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C4")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "FB1")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "FB2")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R10")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R11")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R12")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R13")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R14")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R18")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R4")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R5")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R7")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R8")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R9")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "RN1")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "RN1")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "RN1")
+        (pin "3")
+        (pintype "PASSIVE"))
+      (node
+        (ref "RN1")
+        (pin "4")
+        (pintype "PASSIVE"))
+      (node
+        (ref "RN2")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "RN2")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "RN2")
+        (pin "3")
+        (pintype "PASSIVE"))
+      (node
+        (ref "RN2")
+        (pin "4")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "20")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "31")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "42")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "50")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "56")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U4")
+        (pin "6")
+        (pintype "PASSIVE")))
+    (net
+      (code 3)
+      (name "+5V")
+      (class "Default")
+      (node
+        (ref "C1")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C3")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U1")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U2")
+        (pin "1")
+        (pintype "PASSIVE")))
+    (net
+      (code 4)
+      (name "AD0")
+      (class "Default")
+      (node
+        (ref "U3")
+        (pin "16")
+        (pintype "PASSIVE")))
+    (net
+      (code 5)
+      (name "AD1")
+      (class "Default")
+      (node
+        (ref "RN5")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "17")
+        (pintype "PASSIVE")))
+    (net
+      (code 6)
+      (name "AD2")
+      (class "Default")
+      (node
+        (ref "U3")
+        (pin "18")
+        (pintype "PASSIVE")))
+    (net
+      (code 7)
+      (name "AD3")
+      (class "Default")
+      (node
+        (ref "RN5")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "19")
+        (pintype "PASSIVE")))
+    (net
+      (code 8)
+      (name "AD4")
+      (class "Default")
+      (node
+        (ref "U3")
+        (pin "21")
+        (pintype "PASSIVE")))
+    (net
+      (code 9)
+      (name "AD5")
+      (class "Default")
+      (node
+        (ref "RN5")
+        (pin "3")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "22")
+        (pintype "PASSIVE")))
+    (net
+      (code 10)
+      (name "AD6")
+      (class "Default")
+      (node
+        (ref "RN5")
+        (pin "4")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "23")
+        (pintype "PASSIVE")))
+    (net
+      (code 11)
+      (name "BD0")
+      (class "Default")
+      (node
+        (ref "U3")
+        (pin "38")
+        (pintype "PASSIVE")))
+    (net
+      (code 12)
+      (name "BD1")
+      (class "Default")
+      (node
+        (ref "U3")
+        (pin "39")
+        (pintype "PASSIVE")))
+    (net
+      (code 13)
+      (name "BD2")
+      (class "Default")
+      (node
+        (ref "RN6")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "40")
+        (pintype "PASSIVE")))
+    (net
+      (code 14)
+      (name "BD3")
+      (class "Default")
+      (node
+        (ref "U3")
+        (pin "41")
+        (pintype "PASSIVE")))
+    (net
+      (code 15)
+      (name "BD4")
+      (class "Default")
+      (node
+        (ref "U3")
+        (pin "43")
+        (pintype "PASSIVE")))
+    (net
+      (code 16)
+      (name "BD6")
+      (class "Default")
+      (node
+        (ref "RN6")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "45")
+        (pintype "PASSIVE")))
+    (net
+      (code 17)
+      (name "CIPO")
+      (class "Default")
+      (node
+        (ref "J4")
+        (pin "3")
+        (pintype "PASSIVE")))
+    (net
+      (code 18)
+      (name "COPI")
+      (class "Default")
+      (node
+        (ref "J4")
+        (pin "8")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J7")
+        (pin "3")
+        (pintype "PASSIVE")))
+    (net
+      (code 19)
+      (name "CORTEX_PIN2")
+      (class "Default")
+      (node
+        (ref "J5")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "SW2")
+        (pin "1")
+        (pintype "PASSIVE")))
+    (net
+      (code 20)
+      (name "CS")
+      (class "Default")
+      (node
+        (ref "J4")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "RN3")
+        (pin "6")
+        (pintype "PASSIVE"))
+      (node
+        (ref "SW2")
+        (pin "3")
+        (pintype "PASSIVE")))
+    (net
+      (code 21)
+      (name "DO")
+      (class "Default")
+      (node
+        (ref "JP2")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R16")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "RN3")
+        (pin "7")
+        (pintype "PASSIVE")))
+    (net
+      (code 22)
+      (name "EECLK")
+      (class "Default")
+      (node
+        (ref "R14")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "62")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U4")
+        (pin "4")
+        (pintype "PASSIVE")))
+    (net
+      (code 23)
+      (name "EECS")
+      (class "Default")
+      (node
+        (ref "R12")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "63")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U4")
+        (pin "5")
+        (pintype "PASSIVE")))
+    (net
+      (code 24)
+      (name "EEDATA")
+      (class "Default")
+      (node
+        (ref "R15")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "61")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U4")
+        (pin "3")
+        (pintype "PASSIVE")))
+    (net
+      (code 25)
+      (name "GND")
+      (class "Default")
+      (node
+        (ref "C1")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C10")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C11")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C12")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C13")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C14")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C15")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C16")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C17")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C18")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C19")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C2")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C20")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C21")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C22")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C23")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C24")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C25")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C26")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C3")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C4")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C5")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C6")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C7")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C8")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C9")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "D1")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J2")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J3")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J4")
+        (pin "7")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J5")
+        (pin "3")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J5")
+        (pin "5")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J5")
+        (pin "9")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J6")
+        (pin "10")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J6")
+        (pin "9")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J7")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J7")
+        (pin "MP")
+        (pintype "PASSIVE"))
+      (node
+        (ref "Q1")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R1")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R17")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R19")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R2")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R24")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R3")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R6")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "TP1")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "10")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "11")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "13")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "15")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "25")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "35")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "47")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "5")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "51")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "65")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U4")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U5")
+        (pin "24")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U6")
+        (pin "24")
+        (pintype "PASSIVE"))
+      (node
+        (ref "Y1")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "Y1")
+        (pin "4")
+        (pintype "PASSIVE")))
+    (net
+      (code 26)
+      (name "ICE_CDONE")
+      (class "Default")
+      (node
+        (ref "J2")
+        (pin "9")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J3")
+        (pin "4")
+        (pintype "PASSIVE")))
+    (net
+      (code 27)
+      (name "Net_1")
+      (class "Default")
+      (node
+        (ref "J1")
+        (pin "A4")
+        (pintype "PASSIVE")))
+    (net
+      (code 28)
+      (name "Net_10")
+      (class "Default")
+      (node
+        (ref "U1")
+        (pin "2")
+        (pintype "PASSIVE")))
+    (net
+      (code 29)
+      (name "Net_100")
+      (class "Default")
+      (node
+        (ref "SW1")
+        (pin "6")
+        (pintype "PASSIVE")))
+    (net
+      (code 30)
+      (name "Net_101")
+      (class "Default")
+      (node
+        (ref "SW1")
+        (pin "7")
+        (pintype "PASSIVE")))
+    (net
+      (code 31)
+      (name "Net_102")
+      (class "Default")
+      (node
+        (ref "SW1")
+        (pin "8")
+        (pintype "PASSIVE")))
+    (net
+      (code 32)
+      (name "Net_103")
+      (class "Default")
+      (node
+        (ref "SW1")
+        (pin "9")
+        (pintype "PASSIVE")))
+    (net
+      (code 33)
+      (name "Net_104")
+      (class "Default")
+      (node
+        (ref "SW1")
+        (pin "10")
+        (pintype "PASSIVE")))
+    (net
+      (code 34)
+      (name "Net_105")
+      (class "Default")
+      (node
+        (ref "U6")
+        (pin "1")
+        (pintype "PASSIVE")))
+    (net
+      (code 35)
+      (name "Net_106")
+      (class "Default")
+      (node
+        (ref "U6")
+        (pin "10")
+        (pintype "PASSIVE")))
+    (net
+      (code 36)
+      (name "Net_107")
+      (class "Default")
+      (node
+        (ref "U6")
+        (pin "11")
+        (pintype "PASSIVE")))
+    (net
+      (code 37)
+      (name "Net_108")
+      (class "Default")
+      (node
+        (ref "U6")
+        (pin "12")
+        (pintype "PASSIVE")))
+    (net
+      (code 38)
+      (name "Net_109")
+      (class "Default")
+      (node
+        (ref "U6")
+        (pin "13")
+        (pintype "PASSIVE")))
+    (net
+      (code 39)
+      (name "Net_11")
+      (class "Default")
+      (node
+        (ref "U1")
+        (pin "3")
+        (pintype "PASSIVE")))
+    (net
+      (code 40)
+      (name "Net_110")
+      (class "Default")
+      (node
+        (ref "U6")
+        (pin "14")
+        (pintype "PASSIVE")))
+    (net
+      (code 41)
+      (name "Net_111")
+      (class "Default")
+      (node
+        (ref "RN7")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U6")
+        (pin "15")
+        (pintype "PASSIVE")))
+    (net
+      (code 42)
+      (name "Net_112")
+      (class "Default")
+      (node
+        (ref "RN7")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U6")
+        (pin "16")
+        (pintype "PASSIVE")))
+    (net
+      (code 43)
+      (name "Net_113")
+      (class "Default")
+      (node
+        (ref "RN7")
+        (pin "3")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U6")
+        (pin "17")
+        (pintype "PASSIVE")))
+    (net
+      (code 44)
+      (name "Net_114")
+      (class "Default")
+      (node
+        (ref "RN7")
+        (pin "4")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U6")
+        (pin "18")
+        (pintype "PASSIVE")))
+    (net
+      (code 45)
+      (name "Net_115")
+      (class "Default")
+      (node
+        (ref "RN8")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U6")
+        (pin "19")
+        (pintype "PASSIVE")))
+    (net
+      (code 46)
+      (name "Net_116")
+      (class "Default")
+      (node
+        (ref "RN8")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U6")
+        (pin "20")
+        (pintype "PASSIVE")))
+    (net
+      (code 47)
+      (name "Net_117")
+      (class "Default")
+      (node
+        (ref "RN8")
+        (pin "3")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U6")
+        (pin "21")
+        (pintype "PASSIVE")))
+    (net
+      (code 48)
+      (name "Net_118")
+      (class "Default")
+      (node
+        (ref "U6")
+        (pin "22")
+        (pintype "PASSIVE")))
+    (net
+      (code 49)
+      (name "Net_119")
+      (class "Default")
+      (node
+        (ref "U6")
+        (pin "23")
+        (pintype "PASSIVE")))
+    (net
+      (code 50)
+      (name "Net_12")
+      (class "Default")
+      (node
+        (ref "U1")
+        (pin "4")
+        (pintype "PASSIVE")))
+    (net
+      (code 51)
+      (name "Net_120")
+      (class "Default")
+      (node
+        (ref "J6")
+        (pin "11")
+        (pintype "PASSIVE")))
+    (net
+      (code 52)
+      (name "Net_121")
+      (class "Default")
+      (node
+        (ref "J6")
+        (pin "12")
+        (pintype "PASSIVE")))
+    (net
+      (code 53)
+      (name "Net_122")
+      (class "Default")
+      (node
+        (ref "J6")
+        (pin "13")
+        (pintype "PASSIVE")))
+    (net
+      (code 54)
+      (name "Net_123")
+      (class "Default")
+      (node
+        (ref "J6")
+        (pin "14")
+        (pintype "PASSIVE")))
+    (net
+      (code 55)
+      (name "Net_124")
+      (class "Default")
+      (node
+        (ref "RN8")
+        (pin "4")
+        (pintype "PASSIVE")))
+    (net
+      (code 56)
+      (name "Net_13")
+      (class "Default")
+      (node
+        (ref "U1")
+        (pin "5")
+        (pintype "PASSIVE")))
+    (net
+      (code 57)
+      (name "Net_14")
+      (class "Default")
+      (node
+        (ref "U2")
+        (pin "2")
+        (pintype "PASSIVE")))
+    (net
+      (code 58)
+      (name "Net_15")
+      (class "Default")
+      (node
+        (ref "U2")
+        (pin "3")
+        (pintype "PASSIVE")))
+    (net
+      (code 59)
+      (name "Net_16")
+      (class "Default")
+      (node
+        (ref "U2")
+        (pin "4")
+        (pintype "PASSIVE")))
+    (net
+      (code 60)
+      (name "Net_17")
+      (class "Default")
+      (node
+        (ref "U2")
+        (pin "5")
+        (pintype "PASSIVE")))
+    (net
+      (code 61)
+      (name "Net_18")
+      (class "Default")
+      (node
+        (ref "D2")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "Q1")
+        (pin "3")
+        (pintype "PASSIVE")))
+    (net
+      (code 62)
+      (name "Net_19")
+      (class "Default")
+      (node
+        (ref "D2")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R5")
+        (pin "2")
+        (pintype "PASSIVE")))
+    (net
+      (code 63)
+      (name "Net_2")
+      (class "Default")
+      (node
+        (ref "J1")
+        (pin "A5")
+        (pintype "PASSIVE")))
+    (net
+      (code 64)
+      (name "Net_20")
+      (class "Default")
+      (node
+        (ref "J4")
+        (pin "4")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R21")
+        (pin "2")
+        (pintype "PASSIVE")))
+    (net
+      (code 65)
+      (name "Net_21")
+      (class "Default")
+      (node
+        (ref "J4")
+        (pin "5")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R20")
+        (pin "1")
+        (pintype "PASSIVE")))
+    (net
+      (code 66)
+      (name "Net_22")
+      (class "Default")
+      (node
+        (ref "J5")
+        (pin "7")
+        (pintype "PASSIVE")))
+    (net
+      (code 67)
+      (name "Net_23")
+      (class "Default")
+      (node
+        (ref "C23")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "Y1")
+        (pin "1")
+        (pintype "PASSIVE")))
+    (net
+      (code 68)
+      (name "Net_24")
+      (class "Default")
+      (node
+        (ref "C24")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "3")
+        (pintype "PASSIVE"))
+      (node
+        (ref "Y1")
+        (pin "3")
+        (pintype "PASSIVE")))
+    (net
+      (code 69)
+      (name "Net_25")
+      (class "Default")
+      (node
+        (ref "R6")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "6")
+        (pintype "PASSIVE")))
+    (net
+      (code 70)
+      (name "Net_26")
+      (class "Default")
+      (node
+        (ref "C7")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C8")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "FB2")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "9")
+        (pintype "PASSIVE")))
+    (net
+      (code 71)
+      (name "Net_27")
+      (class "Default")
+      (node
+        (ref "R7")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "14")
+        (pintype "PASSIVE")))
+    (net
+      (code 72)
+      (name "Net_28")
+      (class "Default")
+      (node
+        (ref "U3")
+        (pin "24")
+        (pintype "PASSIVE")))
+    (net
+      (code 73)
+      (name "Net_29")
+      (class "Default")
+      (node
+        (ref "U3")
+        (pin "26")
+        (pintype "PASSIVE")))
+    (net
+      (code 74)
+      (name "Net_3")
+      (class "Default")
+      (node
+        (ref "J1")
+        (pin "A12")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J1")
+        (pin "B12")
+        (pintype "PASSIVE")))
+    (net
+      (code 75)
+      (name "Net_30")
+      (class "Default")
+      (node
+        (ref "U3")
+        (pin "27")
+        (pintype "PASSIVE")))
+    (net
+      (code 76)
+      (name "Net_31")
+      (class "Default")
+      (node
+        (ref "U3")
+        (pin "28")
+        (pintype "PASSIVE")))
+    (net
+      (code 77)
+      (name "Net_32")
+      (class "Default")
+      (node
+        (ref "D3")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "29")
+        (pintype "PASSIVE")))
+    (net
+      (code 78)
+      (name "Net_33")
+      (class "Default")
+      (node
+        (ref "D4")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "30")
+        (pintype "PASSIVE")))
+    (net
+      (code 79)
+      (name "Net_34")
+      (class "Default")
+      (node
+        (ref "U3")
+        (pin "32")
+        (pintype "PASSIVE")))
+    (net
+      (code 80)
+      (name "Net_35")
+      (class "Default")
+      (node
+        (ref "U3")
+        (pin "33")
+        (pintype "PASSIVE")))
+    (net
+      (code 81)
+      (name "Net_36")
+      (class "Default")
+      (node
+        (ref "U3")
+        (pin "34")
+        (pintype "PASSIVE")))
+    (net
+      (code 82)
+      (name "Net_37")
+      (class "Default")
+      (node
+        (ref "U3")
+        (pin "36")
+        (pintype "PASSIVE")))
+    (net
+      (code 83)
+      (name "Net_38")
+      (class "Default")
+      (node
+        (ref "R22")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "44")
+        (pintype "PASSIVE")))
+    (net
+      (code 84)
+      (name "Net_39")
+      (class "Default")
+      (node
+        (ref "R22")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "46")
+        (pintype "PASSIVE")))
+    (net
+      (code 85)
+      (name "Net_4")
+      (class "Default")
+      (node
+        (ref "J1")
+        (pin "B1")
+        (pintype "PASSIVE")))
+    (net
+      (code 86)
+      (name "Net_40")
+      (class "Default")
+      (node
+        (ref "U3")
+        (pin "48")
+        (pintype "PASSIVE")))
+    (net
+      (code 87)
+      (name "Net_41")
+      (class "Default")
+      (node
+        (ref "U3")
+        (pin "52")
+        (pintype "PASSIVE")))
+    (net
+      (code 88)
+      (name "Net_42")
+      (class "Default")
+      (node
+        (ref "U3")
+        (pin "53")
+        (pintype "PASSIVE")))
+    (net
+      (code 89)
+      (name "Net_43")
+      (class "Default")
+      (node
+        (ref "U3")
+        (pin "54")
+        (pintype "PASSIVE")))
+    (net
+      (code 90)
+      (name "Net_44")
+      (class "Default")
+      (node
+        (ref "U3")
+        (pin "55")
+        (pintype "PASSIVE")))
+    (net
+      (code 91)
+      (name "Net_45")
+      (class "Default")
+      (node
+        (ref "U3")
+        (pin "57")
+        (pintype "PASSIVE")))
+    (net
+      (code 92)
+      (name "Net_46")
+      (class "Default")
+      (node
+        (ref "U3")
+        (pin "58")
+        (pintype "PASSIVE")))
+    (net
+      (code 93)
+      (name "Net_47")
+      (class "Default")
+      (node
+        (ref "U3")
+        (pin "59")
+        (pintype "PASSIVE")))
+    (net
+      (code 94)
+      (name "Net_48")
+      (class "Default")
+      (node
+        (ref "D5")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R10")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "60")
+        (pintype "PASSIVE")))
+    (net
+      (code 95)
+      (name "Net_49")
+      (class "Default")
+      (node
+        (ref "R13")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R15")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U4")
+        (pin "1")
+        (pintype "PASSIVE")))
+    (net
+      (code 96)
+      (name "Net_5")
+      (class "Default")
+      (node
+        (ref "J1")
+        (pin "B4")
+        (pintype "PASSIVE")))
+    (net
+      (code 97)
+      (name "Net_50")
+      (class "Default")
+      (node
+        (ref "R18")
+        (pin "2")
+        (pintype "PASSIVE")))
+    (net
+      (code 98)
+      (name "Net_51")
+      (class "Default")
+      (node
+        (ref "R19")
+        (pin "1")
+        (pintype "PASSIVE")))
+    (net
+      (code 99)
+      (name "Net_52")
+      (class "Default")
+      (node
+        (ref "RN3")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U5")
+        (pin "15")
+        (pintype "PASSIVE")))
+    (net
+      (code 100)
+      (name "Net_53")
+      (class "Default")
+      (node
+        (ref "RN3")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U5")
+        (pin "16")
+        (pintype "PASSIVE")))
+    (net
+      (code 101)
+      (name "Net_54")
+      (class "Default")
+      (node
+        (ref "RN3")
+        (pin "3")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U5")
+        (pin "17")
+        (pintype "PASSIVE")))
+    (net
+      (code 102)
+      (name "Net_55")
+      (class "Default")
+      (node
+        (ref "RN3")
+        (pin "4")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U5")
+        (pin "18")
+        (pintype "PASSIVE")))
+    (net
+      (code 103)
+      (name "Net_56")
+      (class "Default")
+      (node
+        (ref "JP2")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R16")
+        (pin "1")
+        (pintype "PASSIVE")))
+    (net
+      (code 104)
+      (name "Net_57")
+      (class "Default")
+      (node
+        (ref "D3")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R8")
+        (pin "1")
+        (pintype "PASSIVE")))
+    (net
+      (code 105)
+      (name "Net_58")
+      (class "Default")
+      (node
+        (ref "D4")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R9")
+        (pin "1")
+        (pintype "PASSIVE")))
+    (net
+      (code 106)
+      (name "Net_59")
+      (class "Default")
+      (node
+        (ref "D5")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R11")
+        (pin "1")
+        (pintype "PASSIVE")))
+    (net
+      (code 107)
+      (name "Net_6")
+      (class "Default")
+      (node
+        (ref "J1")
+        (pin "B5")
+        (pintype "PASSIVE")))
+    (net
+      (code 108)
+      (name "Net_60")
+      (class "Default")
+      (node
+        (ref "SW2")
+        (pin "4")
+        (pintype "PASSIVE")))
+    (net
+      (code 109)
+      (name "Net_61")
+      (class "Default")
+      (node
+        (ref "SW2")
+        (pin "5")
+        (pintype "PASSIVE")))
+    (net
+      (code 110)
+      (name "Net_62")
+      (class "Default")
+      (node
+        (ref "SW2")
+        (pin "6")
+        (pintype "PASSIVE")))
+    (net
+      (code 111)
+      (name "Net_63")
+      (class "Default")
+      (node
+        (ref "D1")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R4")
+        (pin "2")
+        (pintype "PASSIVE")))
+    (net
+      (code 112)
+      (name "Net_64")
+      (class "Default")
+      (node
+        (ref "RN4")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U5")
+        (pin "19")
+        (pintype "PASSIVE")))
+    (net
+      (code 113)
+      (name "Net_65")
+      (class "Default")
+      (node
+        (ref "RN4")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U5")
+        (pin "20")
+        (pintype "PASSIVE")))
+    (net
+      (code 114)
+      (name "Net_66")
+      (class "Default")
+      (node
+        (ref "RN4")
+        (pin "3")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U5")
+        (pin "21")
+        (pintype "PASSIVE")))
+    (net
+      (code 115)
+      (name "Net_67")
+      (class "Default")
+      (node
+        (ref "RN4")
+        (pin "4")
+        (pintype "PASSIVE")))
+    (net
+      (code 116)
+      (name "Net_68")
+      (class "Default")
+      (node
+        (ref "RN5")
+        (pin "5")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U6")
+        (pin "6")
+        (pintype "PASSIVE")))
+    (net
+      (code 117)
+      (name "Net_69")
+      (class "Default")
+      (node
+        (ref "RN5")
+        (pin "6")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U6")
+        (pin "7")
+        (pintype "PASSIVE")))
+    (net
+      (code 118)
+      (name "Net_7")
+      (class "Default")
+      (node
+        (ref "J1")
+        (pin "S1")
+        (pintype "PASSIVE")))
+    (net
+      (code 119)
+      (name "Net_70")
+      (class "Default")
+      (node
+        (ref "RN5")
+        (pin "7")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U6")
+        (pin "8")
+        (pintype "PASSIVE")))
+    (net
+      (code 120)
+      (name "Net_71")
+      (class "Default")
+      (node
+        (ref "RN5")
+        (pin "8")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U6")
+        (pin "9")
+        (pintype "PASSIVE")))
+    (net
+      (code 121)
+      (name "Net_72")
+      (class "Default")
+      (node
+        (ref "RN6")
+        (pin "3")
+        (pintype "PASSIVE")))
+    (net
+      (code 122)
+      (name "Net_73")
+      (class "Default")
+      (node
+        (ref "RN6")
+        (pin "4")
+        (pintype "PASSIVE")))
+    (net
+      (code 123)
+      (name "Net_74")
+      (class "Default")
+      (node
+        (ref "RN6")
+        (pin "5")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U6")
+        (pin "2")
+        (pintype "PASSIVE")))
+    (net
+      (code 124)
+      (name "Net_75")
+      (class "Default")
+      (node
+        (ref "RN6")
+        (pin "6")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U6")
+        (pin "3")
+        (pintype "PASSIVE")))
+    (net
+      (code 125)
+      (name "Net_76")
+      (class "Default")
+      (node
+        (ref "RN6")
+        (pin "7")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U6")
+        (pin "4")
+        (pintype "PASSIVE")))
+    (net
+      (code 126)
+      (name "Net_77")
+      (class "Default")
+      (node
+        (ref "RN6")
+        (pin "8")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U6")
+        (pin "5")
+        (pintype "PASSIVE")))
+    (net
+      (code 127)
+      (name "Net_78")
+      (class "Default")
+      (node
+        (ref "RN1")
+        (pin "5")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U5")
+        (pin "6")
+        (pintype "PASSIVE")))
+    (net
+      (code 128)
+      (name "Net_79")
+      (class "Default")
+      (node
+        (ref "RN1")
+        (pin "6")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U5")
+        (pin "7")
+        (pintype "PASSIVE")))
+    (net
+      (code 129)
+      (name "Net_8")
+      (class "Default")
+      (node
+        (ref "R1")
+        (pin "2")
+        (pintype "PASSIVE")))
+    (net
+      (code 130)
+      (name "Net_80")
+      (class "Default")
+      (node
+        (ref "RN1")
+        (pin "7")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U5")
+        (pin "8")
+        (pintype "PASSIVE")))
+    (net
+      (code 131)
+      (name "Net_81")
+      (class "Default")
+      (node
+        (ref "RN1")
+        (pin "8")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U5")
+        (pin "9")
+        (pintype "PASSIVE")))
+    (net
+      (code 132)
+      (name "Net_82")
+      (class "Default")
+      (node
+        (ref "RN2")
+        (pin "5")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U5")
+        (pin "2")
+        (pintype "PASSIVE")))
+    (net
+      (code 133)
+      (name "Net_83")
+      (class "Default")
+      (node
+        (ref "RN2")
+        (pin "6")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U5")
+        (pin "3")
+        (pintype "PASSIVE")))
+    (net
+      (code 134)
+      (name "Net_84")
+      (class "Default")
+      (node
+        (ref "RN2")
+        (pin "7")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U5")
+        (pin "4")
+        (pintype "PASSIVE")))
+    (net
+      (code 135)
+      (name "Net_85")
+      (class "Default")
+      (node
+        (ref "RN2")
+        (pin "8")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U5")
+        (pin "5")
+        (pintype "PASSIVE")))
+    (net
+      (code 136)
+      (name "Net_86")
+      (class "Default")
+      (node
+        (ref "U5")
+        (pin "1")
+        (pintype "PASSIVE")))
+    (net
+      (code 137)
+      (name "Net_87")
+      (class "Default")
+      (node
+        (ref "U5")
+        (pin "10")
+        (pintype "PASSIVE")))
+    (net
+      (code 138)
+      (name "Net_88")
+      (class "Default")
+      (node
+        (ref "U5")
+        (pin "11")
+        (pintype "PASSIVE")))
+    (net
+      (code 139)
+      (name "Net_89")
+      (class "Default")
+      (node
+        (ref "U5")
+        (pin "12")
+        (pintype "PASSIVE")))
+    (net
+      (code 140)
+      (name "Net_9")
+      (class "Default")
+      (node
+        (ref "R2")
+        (pin "1")
+        (pintype "PASSIVE")))
+    (net
+      (code 141)
+      (name "Net_90")
+      (class "Default")
+      (node
+        (ref "U5")
+        (pin "13")
+        (pintype "PASSIVE")))
+    (net
+      (code 142)
+      (name "Net_91")
+      (class "Default")
+      (node
+        (ref "U5")
+        (pin "14")
+        (pintype "PASSIVE")))
+    (net
+      (code 143)
+      (name "Net_92")
+      (class "Default")
+      (node
+        (ref "U5")
+        (pin "22")
+        (pintype "PASSIVE")))
+    (net
+      (code 144)
+      (name "Net_93")
+      (class "Default")
+      (node
+        (ref "U5")
+        (pin "23")
+        (pintype "PASSIVE")))
+    (net
+      (code 145)
+      (name "Net_94")
+      (class "Default")
+      (node
+        (ref "C25")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R3")
+        (pin "2")
+        (pintype "PASSIVE")))
+    (net
+      (code 146)
+      (name "Net_95")
+      (class "Default")
+      (node
+        (ref "SW1")
+        (pin "1")
+        (pintype "PASSIVE")))
+    (net
+      (code 147)
+      (name "Net_96")
+      (class "Default")
+      (node
+        (ref "SW1")
+        (pin "2")
+        (pintype "PASSIVE")))
+    (net
+      (code 148)
+      (name "Net_97")
+      (class "Default")
+      (node
+        (ref "SW1")
+        (pin "3")
+        (pintype "PASSIVE")))
+    (net
+      (code 149)
+      (name "Net_98")
+      (class "Default")
+      (node
+        (ref "SW1")
+        (pin "4")
+        (pintype "PASSIVE")))
+    (net
+      (code 150)
+      (name "Net_99")
+      (class "Default")
+      (node
+        (ref "SW1")
+        (pin "5")
+        (pintype "PASSIVE")))
+    (net
+      (code 151)
+      (name "PWR_FLAG")
+      (class "Default")
+      (node
+        (ref "C26")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C5")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C6")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "FB1")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "FB3")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "FB3")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J1")
+        (pin "A1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "4")
+        (pintype "PASSIVE")))
+    (net
+      (code 152)
+      (name "SWDIO")
+      (class "Default")
+      (node
+        (ref "SW2")
+        (pin "2")
+        (pintype "PASSIVE")))
+    (net
+      (code 153)
+      (name "TCK")
+      (class "Default")
+      (node
+        (ref "J2")
+        (pin "3")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J4")
+        (pin "6")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J5")
+        (pin "4")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J7")
+        (pin "4")
+        (pintype "PASSIVE"))
+      (node
+        (ref "RN3")
+        (pin "8")
+        (pintype "PASSIVE")))
+    (net
+      (code 154)
+      (name "TDI")
+      (class "Default")
+      (node
+        (ref "J2")
+        (pin "4")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J5")
+        (pin "8")
+        (pintype "PASSIVE")))
+    (net
+      (code 155)
+      (name "TDO")
+      (class "Default")
+      (node
+        (ref "J2")
+        (pin "5")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J5")
+        (pin "6")
+        (pintype "PASSIVE")))
+    (net
+      (code 156)
+      (name "TMS")
+      (class "Default")
+      (node
+        (ref "J2")
+        (pin "6")
+        (pintype "PASSIVE")))
+    (net
+      (code 157)
+      (name "UART_TX")
+      (class "Default")
+      (node
+        (ref "J3")
+        (pin "3")
+        (pintype "PASSIVE"))
+      (node
+        (ref "RN4")
+        (pin "5")
+        (pintype "PASSIVE")))
+    (net
+      (code 158)
+      (name "USB_DN")
+      (class "Default")
+      (node
+        (ref "J1")
+        (pin "A6")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J1")
+        (pin "A7")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J1")
+        (pin "B6")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J1")
+        (pin "B7")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "7")
+        (pintype "PASSIVE")))
+    (net
+      (code 159)
+      (name "USB_DP")
+      (class "Default")
+      (node
+        (ref "J1")
+        (pin "A8")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J1")
+        (pin "A9")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J1")
+        (pin "B8")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J1")
+        (pin "B9")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "8")
+        (pintype "PASSIVE")))
+    (net
+      (code 160)
+      (name "VREF")
+      (class "Default")
+      (node
+        (ref "C21")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C22")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "JP1")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "Q1")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R17")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R24")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "RN7")
+        (pin "5")
+        (pintype "PASSIVE"))
+      (node
+        (ref "RN7")
+        (pin "6")
+        (pintype "PASSIVE"))
+      (node
+        (ref "RN7")
+        (pin "7")
+        (pintype "PASSIVE"))
+      (node
+        (ref "RN7")
+        (pin "8")
+        (pintype "PASSIVE"))
+      (node
+        (ref "RN8")
+        (pin "5")
+        (pintype "PASSIVE"))
+      (node
+        (ref "RN8")
+        (pin "6")
+        (pintype "PASSIVE"))
+      (node
+        (ref "RN8")
+        (pin "7")
+        (pintype "PASSIVE"))
+      (node
+        (ref "RN8")
+        (pin "8")
+        (pintype "PASSIVE")))
+    (net
+      (code 161)
+      (name "VREG")
+      (class "Default")
+      (node
+        (ref "C10")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C11")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C12")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C13")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "C9")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "12")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "37")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "49")
+        (pintype "PASSIVE"))
+      (node
+        (ref "U3")
+        (pin "64")
+        (pintype "PASSIVE")))
+    (net
+      (code 162)
+      (name "VTARGET")
+      (class "Default")
+      (node
+        (ref "J2")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J3")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J4")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J5")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J7")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "JP1")
+        (pin "1")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R20")
+        (pin "2")
+        (pintype "PASSIVE"))
+      (node
+        (ref "R21")
+        (pin "1")
+        (pintype "PASSIVE")))
+    (net
+      (code 163)
+      (name "xPB0")
+      (class "Default")
+      (node
+        (ref "J6")
+        (pin "1")
+        (pintype "PASSIVE")))
+    (net
+      (code 164)
+      (name "xPB1")
+      (class "Default")
+      (node
+        (ref "J6")
+        (pin "2")
+        (pintype "PASSIVE")))
+    (net
+      (code 165)
+      (name "xPB2")
+      (class "Default")
+      (node
+        (ref "J6")
+        (pin "3")
+        (pintype "PASSIVE")))
+    (net
+      (code 166)
+      (name "xPB3")
+      (class "Default")
+      (node
+        (ref "J6")
+        (pin "4")
+        (pintype "PASSIVE")))
+    (net
+      (code 167)
+      (name "xPB4")
+      (class "Default")
+      (node
+        (ref "J6")
+        (pin "5")
+        (pintype "PASSIVE")))
+    (net
+      (code 168)
+      (name "xPB5")
+      (class "Default")
+      (node
+        (ref "J6")
+        (pin "6")
+        (pintype "PASSIVE")))
+    (net
+      (code 169)
+      (name "xPB6")
+      (class "Default")
+      (node
+        (ref "J6")
+        (pin "7")
+        (pintype "PASSIVE")))
+    (net
+      (code 170)
+      (name "xPB7")
+      (class "Default")
+      (node
+        (ref "J6")
+        (pin "8")
+        (pintype "PASSIVE")))
+    (net
+      (code 171)
+      (name "~SRST")
+      (class "Default")
+      (node
+        (ref "J2")
+        (pin "8")
+        (pintype "PASSIVE"))
+      (node
+        (ref "J5")
+        (pin "10")
+        (pintype "PASSIVE"))
+      (node
+        (ref "RN4")
+        (pin "8")
+        (pintype "PASSIVE")))
+    (net
+      (code 172)
+      (name "~TRST")
+      (class "Default")
+      (node
+        (ref "J2")
+        (pin "7")
+        (pintype "PASSIVE"))
+      (node
+        (ref "RN3")
+        (pin "5")
+        (pintype "PASSIVE")))
+    (net
+      (code 173)
+      (name "~UART_CTS")
+      (class "Default")
+      (node
+        (ref "J3")
+        (pin "6")
+        (pintype "PASSIVE")))
+    (net
+      (code 174)
+      (name "~UART_DCD")
+      (class "Default")
+      (node
+        (ref "J3")
+        (pin "9")
+        (pintype "PASSIVE")))
+    (net
+      (code 175)
+      (name "~UART_DSR")
+      (class "Default")
+      (node
+        (ref "J3")
+        (pin "8")
+        (pintype "PASSIVE")))
+    (net
+      (code 176)
+      (name "~UART_DTR")
+      (class "Default")
+      (node
+        (ref "J3")
+        (pin "7")
+        (pintype "PASSIVE"))
+      (node
+        (ref "RN4")
+        (pin "7")
+        (pintype "PASSIVE")))
+    (net
+      (code 177)
+      (name "~UART_RTS")
+      (class "Default")
+      (node
+        (ref "J3")
+        (pin "5")
+        (pintype "PASSIVE"))
+      (node
+        (ref "RN4")
+        (pin "6")
+        (pintype "PASSIVE")))))
